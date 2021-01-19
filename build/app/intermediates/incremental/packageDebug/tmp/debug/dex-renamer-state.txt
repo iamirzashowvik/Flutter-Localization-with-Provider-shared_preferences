@@ -1,0 +1,4 @@
+#Fri Jan 15 11:56:27 BDT 2021
+base.0=C\:\\Users\\Mirza\\Desktop\\providerEASYexample-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
